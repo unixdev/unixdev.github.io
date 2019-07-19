@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Musings on Software Development
-#email: your-email@example.com
+title: Musings of a Coder
+email: just.unix ~at~ gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My thoughts on software development, coding, development management and the business
   of software development.
@@ -25,7 +25,9 @@ github_username:  unixdev
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-swiss
+theme_color: white
 plugins:
   - jekyll-feed
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why it's Hard to Build a Software Company in Bangladesh"
-tags: management
+tags: [management]
 ---
 
 There are more than 2000 software companies in Bangladesh. This is not much in a country with a population of 160 million. But the number is not small either. The title of this post should have been "Why it's Hard to Build a _Good_ Software Company in Bangladesh". The number of good software companies where programmers are happy with their work and are producing world class software are much less than 2000. My estimate is its less than 20.
